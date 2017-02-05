@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "398696304826",
+    "firebase_url": "https://xpenses-cb557.firebaseio.com",
+    "project_id": "xpenses-cb557",
+    "storage_bucket": "xpenses-cb557.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398696304826:android:4bfbee5918c1dba7",
+        "android_client_info": {
+          "package_name": "com.prit.ark.xpenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398696304826-6gt2s4hrkb3gbgjrcj616o1i33iiq1ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApNRf5CHiS-Nd8xzYhNBbRtIDjrIqPi7A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398696304826-6gt2s4hrkb3gbgjrcj616o1i33iiq1ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

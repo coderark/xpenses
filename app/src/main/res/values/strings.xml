@@ -1,0 +1,9 @@
+<resources>
+    <!--IDs-->
+    <string name="app_name">Xpenses</string>
+    <string name="sign_out">Sign Out</string>
+
+    <!--Messages-->
+    <string name="unknown_response">Some error occured.</string>
+    <string name="login_failed">Login failed.</string>
+</resources>
